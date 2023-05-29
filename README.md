@@ -12,6 +12,7 @@
 </p>
 
 * [Telegram desktop & mobile telegram](https://t.me/addtheme/devdark)
+* [Telegram X](https://github.com/devdarktheme/telegram/blob/main/devdark.tgx-theme)
 
 &nbsp;
 
